@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyStock</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string-array name="tab_title">
+        <item>"product"</item>
+        <item> "stock"</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="stock">stock</string>
+    <string name="submit">submit</string>
+    <string name="add_product">add product</string>
+    <string name="delete">delete</string>
+</resources>
